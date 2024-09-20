@@ -10,4 +10,4 @@ Meu nome é João Victor
 
   joao.granjeiro.silva@gmail.com
 
-  ![](file:///storage/emulated/0/Download/anime-asta.gif)
+  !.[].(file:///storage/emulated/0/Download/anime-asta.gif)
