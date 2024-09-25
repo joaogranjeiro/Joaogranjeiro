@@ -10,10 +10,5 @@ Meu nome é João Victor
 
   joao.granjeiro.silva@gmail.com
 
-  [](file:///storage/emulated/0/Download/anime-asta.gif)
-
-
-
-
-![](https://media1.tenor.com/m/Wjbx14GAI3wAAAAd/black-clover-black-clover-opening12.gif)
+  ![](file:///storage/emulated/0/Download/anime-asta.gif)
 
