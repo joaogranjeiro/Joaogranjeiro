@@ -8,6 +8,6 @@ Meu nome é João Victor
 
   ### Voce entrar em contato comigo 📫
 
-  joao.granjeiro.silva@gmail.com
+  joao.granjeiro.silva@escola.pr.gov.br
 
 ![](https://media1.tenor.com/m/Wjbx14GAI3wAAAAd/black-clover-black-clover-opening12.gif)
